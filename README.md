@@ -4,3 +4,4 @@ Hii ni website simple kwa ajili ya kudisplay matokeo ya wanafunzi baada ya kuing
 # Lugha zilizotumika
 HTML kwa ajili ya makeup na layouts <br>
 CSS kwa ajili ya decoration ya HTML
+JAVA SCRIPT kwa ajili ya functionality ya website
