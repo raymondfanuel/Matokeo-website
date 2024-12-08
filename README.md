@@ -3,7 +3,7 @@ Hii ni website simple kwa ajili ya kudisplay matokeo ya wanafunzi baada ya kuing
 
 # Lugha zilizotumika
 HTML kwa ajili ya makeup na layouts <br>
-CSS kwa ajili ya decoration ya HTML
+CSS kwa ajili ya decoration ya HTML <br>
 JAVASCRIPT kwa ajili ya functionality ya website
 
 # Jinsi ya kuweka matokeo ya wanafunzi
